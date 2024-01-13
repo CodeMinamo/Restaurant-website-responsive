@@ -1,5 +1,5 @@
 # Responsive Restaurant Website
-## [Watch it Live](https://youtu.be/5RIFrZEjURA)
+## [Watch it Live](https://codeminamo.github.io/Restaurant-website-responsive/)
 ### Responsive Restaurant Website
 
 - Responsive Restaurant Website Design Using HTML CSS & JavaScript
